@@ -1,0 +1,35 @@
+{
+  "wheat": {
+    "yield_per_acre": 1200,
+    "price_per_kg": 70,
+    "costs": {
+      "seeds": 3000,
+      "water": 2000,
+      "fertilizer": 5000,
+      "spray": 1500,
+      "labor": 4000
+    }
+  },
+  "rice": {
+    "yield_per_acre": 1500,
+    "price_per_kg": 120,
+    "costs": {
+      "seeds": 4000,
+      "water": 6000,
+      "fertilizer": 7000,
+      "spray": 2000,
+      "labor": 5000
+    }
+  },
+  "maize": {
+    "yield_per_acre": 1800,
+    "price_per_kg": 60,
+    "costs": {
+      "seeds": 3500,
+      "water": 2500,
+      "fertilizer": 4500,
+      "spray": 1200,
+      "labor": 3500
+    }
+  }
+}
